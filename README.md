@@ -1,5 +1,5 @@
 # AI-Project-Sign-Language-Identification
-The hand signs used in sign language for each alphabet is converted to text and then the model is deployed using Flask on a local server.
+Made a Sign Langugae Identification Model and Deployed it on local serevr using Flask.The Hand signs used in sign language is for each alphabet and blank.
 
 Dataset GoogleDrive Link: https://drive.google.com/drive/folders/1pcf-tRwfV9kbz4nc-BhFUdRAVFh9izmr?usp=sharing
 
